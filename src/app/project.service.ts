@@ -14,14 +14,15 @@ export class ProjectService {
         link: '/alvará',
       },
       {
+        name: 'Busca por médicos',
+        description:
+          'Consulte médicos registrados no Conselho Federal de Medicina. Encontre profissionais pelo nome, CRM ou estado e verifique sua regularidade para exercer a profissão.',
+        link: 'https://portal.cfm.org.br/busca-medicos',
+      },
+      {
         name: 'Consultar Pessoa Jurídica',
         description:
           'Consultar uma pessoa jurídica é um processo utilizado para obter informações importantes sobre uma empresa ou entidade registrada.',
-        link: '',
-      },
-      {
-        name: 'lorem',
-        description: 'lorem imputation',
         link: '',
       },
     ];
