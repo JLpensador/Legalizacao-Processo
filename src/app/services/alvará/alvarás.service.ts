@@ -15,30 +15,35 @@ export class AlvarásService {
         instruction:
           'https://portal.seuma.fortaleza.ce.gov.br/fortalezaonline/portal/manual/manual_alvara_funcionamento.pdf',
       },
+
       {
         name: 'lorem',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
         link: '',
       },
+
       {
         name: 'lorem',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
         link: '',
       },
+
       {
         name: 'lorem',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
         link: '',
       },
+
       {
         name: 'lorem',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
         link: '',
       },
+
       {
         name: 'lorem',
         description:

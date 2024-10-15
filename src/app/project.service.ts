@@ -13,16 +13,39 @@ export class ProjectService {
           'O Alvará de Funcionamento é o documento que autoriza o início de uma atividade estabelecida em um imóvel, sendo emitido automaticamente a partir de atos declaratórios.',
         link: '/alvará',
       },
+
       {
         name: 'Busca por médicos',
         description:
           'Consulte médicos registrados no Conselho Federal de Medicina. Encontre profissionais pelo nome, CRM ou estado e verifique sua regularidade para exercer a profissão.',
         link: 'https://portal.cfm.org.br/busca-medicos',
       },
+
       {
-        name: 'Consultar Pessoa Jurídica',
+        name: 'Comprovante de Inscrição',
         description:
-          'Consultar uma pessoa jurídica é um processo utilizado para obter informações importantes sobre uma empresa ou entidade registrada.',
+          'Acesse a págida para a emissão do Comprovante de Inscrição e de Situação Cadastral de Pessoa Jurídica pela Internet',
+        link: 'https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=55399862000120',
+      },
+
+      {
+        name: 'Inscrição de CRM',
+        description:
+          'Consulte a inscrição no Conselho Regional de Medicina (CRM) de médicos para verificar se estão registrados e habilitados a exercer a profissão',
+        link: '/CRM',
+      },
+
+      {
+        name: 'lorem',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
+        link: '',
+      },
+
+      {
+        name: 'lorem',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
         link: '',
       },
     ];
