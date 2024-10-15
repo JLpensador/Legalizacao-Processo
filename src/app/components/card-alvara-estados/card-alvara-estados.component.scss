@@ -1,0 +1,51 @@
+@media (max-width: 800px) {
+  .card {
+    flex: auto !important;
+  }
+}
+
+.alvara-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px;
+  flex: 1 1 calc(30% - 20px);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+#button {
+  text-align: center;
+  text-decoration: none;
+  width: 25%;
+  padding: 1%;
+  border: 2px solid #0D0D0D;
+  border-radius: 5px;
+  font-size: clamp(8px, 5vw, 1rem);
+  font-weight: 600;
+  color: white;
+  background-image: linear-gradient(to right, #0D6E86, #2D7B59);
+  box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
+}
+
+#button:active {
+  box-shadow: inset -4px 4px 0 #222;
+  font-size: 0.9rem;
+}

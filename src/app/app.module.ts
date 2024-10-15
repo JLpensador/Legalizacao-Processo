@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { HomeComponent } from './pages/home/home.component';
 import { CardProcessosComponent } from './components/card-processos/card-processos.component';
 import { AlvaraComponent } from './pages/alvara/alvara.component';
+import { CardAlvaraEstadosComponent } from './components/card-alvara-estados/card-alvara-estados.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { AlvaraComponent } from './pages/alvara/alvara.component';
     HeaderComponent,
     HomeComponent,
     CardProcessosComponent,
-    AlvaraComponent
+    AlvaraComponent,
+    CardAlvaraEstadosComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,10 @@
+<div class="alvara-container">
+  <div class="card" *ngFor="let alvara of alvaras">
+    <h3>{{ alvara.name }}</h3>
+    <p>{{ alvara.description }}</p>
+    <div class="buttons">
+      <a [href]="alvara.link" id="button" target="_blank">Acessar</a>
+      <a [href]="alvara.instruction" id="button" target="_blank">Instruções</a>
+    </div>
+  </div>
+</div>
