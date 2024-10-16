@@ -24,8 +24,15 @@ export class ProjectService {
       {
         name: 'Comprovante de Inscrição',
         description:
-          'Acesse a págida para a emissão do Comprovante de Inscrição e de Situação Cadastral de Pessoa Jurídica pela Internet',
+          'Acesse a página para a emissão do Comprovante de Inscrição e de Situação Cadastral de Pessoa Jurídica pela Internet',
         link: 'https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=55399862000120',
+      },
+
+      {
+        name: 'Empresas',
+        description:
+          'Gerencie arquivos corporativos no Google Drive, facilitando o armazenamento, compartilhamento e colaboração entre equipes.',
+        link: 'https://drive.google.com/drive/u/2/folders/1ZJG9Bxd8hr85MfTnX7clGQC_ESJuuuQ3',
       },
 
       {
@@ -33,13 +40,6 @@ export class ProjectService {
         description:
           'Consulte a inscrição no Conselho Regional de Medicina (CRM) de médicos para verificar se estão registrados e habilitados a exercer a profissão',
         link: '/CRM',
-      },
-
-      {
-        name: 'lorem',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
-        link: '',
       },
 
       {
