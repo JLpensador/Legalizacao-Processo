@@ -2,6 +2,10 @@
   .card {
     flex: auto !important;
   }
+
+  #button {
+    width: 100% !important;
+  }
 }
 
 .projects-container {
@@ -29,7 +33,7 @@
 #button {
   text-align: center;
   text-decoration: none;
-  width: 25%;
+  width: 22%;
   padding: 1%;
   border: 2px solid #0D0D0D;
   border-radius: 5px;

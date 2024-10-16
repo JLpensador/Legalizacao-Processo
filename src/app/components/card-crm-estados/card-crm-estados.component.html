@@ -1,6 +1,7 @@
 <div class="crm-container">
   <div class="card" *ngFor="let crm of crms">
     <h3>{{ crm.name }}</h3>
-    <a [href]="crm.link" id="button">Acessar</a>
+    <p>{{ crm.description }}</p>
+    <a [href]="crm.link" id="button" target="_blank">Acessar</a>
   </div>
 </div>
