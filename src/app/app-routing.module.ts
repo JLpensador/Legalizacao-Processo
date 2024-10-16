@@ -11,7 +11,7 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'alvará', component: AlvaraComponent },
   { path: 'CRM', component: CrmComponent },
-  { path: 'junta-comercial', component: JuntaComercialComponent}
+  { path: 'juntaComercial', component: JuntaComercialComponent },
 ];
 
 @NgModule({

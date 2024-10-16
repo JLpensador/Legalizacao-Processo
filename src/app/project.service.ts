@@ -46,7 +46,7 @@ export class ProjectService {
         name: 'Registro na Junta Comercial',
         description:
           'A Junta Comercial é um órgão governamental responsável por registrar, controlar e regularizar as atividades das empresas.',
-        link: '/junta-comercial',
+        link: '/juntaComercial',
       },
     ];
   }

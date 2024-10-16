@@ -1,1 +1,9 @@
-<p>card-jc-estados works!</p>
+<div class="jc-container">
+  <div class="card" *ngFor="let jc of jcs">
+    <h3>{{ jc.name }}</h3>
+    <p>{{ jc.description }}</p>
+    <div class="buttons">
+      <a [href]="jc.link" id="button" target="_blank">Acessar</a>
+    </div>
+  </div>
+</div>
