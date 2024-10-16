@@ -43,9 +43,9 @@ export class ProjectService {
       },
 
       {
-        name: 'lorem',
+        name: 'Registro na Junta Comercial',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
+          'A Junta Comercial é um órgão governamental responsável por registrar, controlar e regularizar as atividades das empresas.',
         link: '',
       },
     ];

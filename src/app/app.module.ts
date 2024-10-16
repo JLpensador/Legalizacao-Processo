@@ -10,6 +10,8 @@ import { AlvaraComponent } from './pages/alvara/alvara.component';
 import { CardAlvaraEstadosComponent } from './components/card-alvara-estados/card-alvara-estados.component';
 import { CardCRMEstadosComponent } from './components/card-crm-estados/card-crm-estados.component';
 import { CrmComponent } from './pages/crm/crm.component';
+import { JuntaComercialComponent } from './pages/junta-comercial/junta-comercial.component';
+import { CardJCEstadosComponent } from './components/card-jc-estados/card-jc-estados.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { CrmComponent } from './pages/crm/crm.component';
     AlvaraComponent,
     CardAlvaraEstadosComponent,
     CardCRMEstadosComponent,
-    CrmComponent
+    CrmComponent,
+    JuntaComercialComponent,
+    CardJCEstadosComponent
   ],
   imports: [
     BrowserModule,
