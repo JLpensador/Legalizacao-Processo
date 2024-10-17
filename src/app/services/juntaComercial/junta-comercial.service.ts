@@ -158,6 +158,12 @@ export class JuntaComercialService {
       },
 
       {
+        name: 'Governo do Estado de São Paulo',
+        description: 'Site do Governo de São Paulo usado com o JUCESP',
+        link: 'https://vreredesim.sp.gov.br/home',
+      },
+
+      {
         name: 'Sergipe',
         description: 'Junta Comercial do Estado de Sergipe (JUCESE)',
         link: 'https://jucese.se.gov.br',
@@ -167,6 +173,12 @@ export class JuntaComercialService {
         name: 'Tocantins',
         description: 'Junta Comercial do Estado de Tocantins (JUCETINS)',
         link: 'https://www.to.gov.br/jucetins/',
+      },
+
+      {
+        name: 'Pdf de Instruções de Viabilidade',
+        description: 'Pdf com instruções de Registro com base na JUCEC',
+        link: 'https://drive.google.com/file/d/18kbJbeqribsAxUnBO__3Nh3-dtazSMUR/view',
       },
     ];
   }
