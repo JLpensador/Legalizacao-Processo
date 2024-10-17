@@ -17,6 +17,15 @@ export class AlvarásService {
       },
 
       {
+        name: 'Caucaia',
+        description:
+          'Acesse o portal alvara.sefin.caucaia.ce.gov.br/alvara para solicitar e acompanhar seu alvará de funcionamento em Caucaia.',
+        link: 'https://alvara.sefin.caucaia.ce.gov.br/alvara/',
+        instruction:
+          'https://alvara.sefin.caucaia.ce.gov.br/alvara/documento/funcionamento',
+      },
+
+      {
         name: 'Crato',
         description:
           'O site de serviços do Crato oferece uma plataforma para consultas e emissão de documentos públicos, como alvarás, certidões e licenças.',
@@ -46,14 +55,6 @@ export class AlvarásService {
           'O portal Carioca oferece uma solução digital inovadora para facilitar a vida dos cidadãos do Rio de Janeiro permitindo a emissão de alvarás, licenças e certidões.',
         link: 'https://home.carioca.rio/',
         instruction: 'faqnew.pdf',
-      },
-
-      {
-        name: 'lorem',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
-        link: '',
-        instruction: '',
       },
     ];
   }
