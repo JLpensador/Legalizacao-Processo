@@ -45,8 +45,7 @@ export class AlvarásService {
         description:
           'O portal Carioca oferece uma solução digital inovadora para facilitar a vida dos cidadãos do Rio de Janeiro permitindo a emissão de alvarás, licenças e certidões.',
         link: 'https://home.carioca.rio/',
-        instruction:
-          'https://services-carioca.rio.rj.gov.br/documents/10279/1093251601/faqnew/86d06a81-5c9c-5d4f-715b-a466691c5c57',
+        instruction: 'faqnew.pdf',
       },
 
       {
