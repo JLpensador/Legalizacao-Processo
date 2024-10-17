@@ -9,7 +9,7 @@ export class CertificadoService {
       {
         name: 'Acompanhamento',
         description:
-          'Acompanhe o status da sua certificação de bombeiros. Utilize o número de protocolo fornecido na solicitação para verificar em que fase se encontra o seu pedido na página',
+          'Consulte o status da sua certificação de bombeiros. Utilize o número de protocolo fornecido na solicitação para verificar em que fase se encontra o seu pedido na página',
         link: 'https://certificacao.bombeiros.ce.gov.br/acompanhamento',
       },
 

@@ -24,7 +24,7 @@ export class ProjectService {
       {
         name: 'Consulta CCB',
         description:
-          'Solicite e acompanhe sua certificação de bombeiros. Preencha o formulário na opção de solicitação e monitore o andamento do seu pedido na seção de acompanhar.',
+          'Solicite e consulte sua certificação de bombeiros. Preencha o formulário na opção de solicitação e monitore o andamento do seu pedido na seção de acompanhar.',
         link: '/CertificaçãoBombeiros',
       },
 
