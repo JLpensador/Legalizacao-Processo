@@ -1,6 +1,14 @@
-# LegalizacaoProcessos
+# Legalizacão Processos Conta Médica
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Este projeto feito para meu estágio na Conta Médica tem como objetivo facilitar a solicitação e o acompanhamento de processos de legalização, oferecendo uma plataforma intuitiva e de fácil acesso.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+<br>
+
+![Captura de tela 2024-10-17 160623](https://github.com/user-attachments/assets/ebea1145-3a29-4ad0-9a69-6b6693132d7a)
 
 ## Development server
 
