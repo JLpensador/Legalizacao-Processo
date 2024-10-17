@@ -1,4 +1,4 @@
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .card {
     flex: auto !important;
   }
@@ -38,6 +38,8 @@
 #button {
   text-align: center;
   text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
   width: 22%;
   padding: 1%;
   border: 2px solid #0D0D0D;
