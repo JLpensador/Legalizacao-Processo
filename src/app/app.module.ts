@@ -12,6 +12,8 @@ import { CardCRMEstadosComponent } from './components/card-crm-estados/card-crm-
 import { CrmComponent } from './pages/crm/crm.component';
 import { JuntaComercialComponent } from './pages/junta-comercial/junta-comercial.component';
 import { CardJCEstadosComponent } from './components/card-jc-estados/card-jc-estados.component';
+import { CardCertificadoBombeirosComponent } from './components/card-certificado-bombeiros/card-certificado-bombeiros.component';
+import { CertificadoBombeirosComponent } from './pages/certificado-bombeiros/certificado-bombeiros.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { CardJCEstadosComponent } from './components/card-jc-estados/card-jc-est
     CardCRMEstadosComponent,
     CrmComponent,
     JuntaComercialComponent,
-    CardJCEstadosComponent
+    CardJCEstadosComponent,
+    CardCertificadoBombeirosComponent,
+    CertificadoBombeirosComponent
   ],
   imports: [
     BrowserModule,

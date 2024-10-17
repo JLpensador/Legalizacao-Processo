@@ -1,0 +1,9 @@
+<div class="certificados-container">
+  <div class="card" *ngFor="let bombeiro of bombeiros">
+    <h3>{{ bombeiro.name }}</h3>
+    <p>{{ bombeiro.description }}</p>
+    <div class="buttons">
+      <a [href]="bombeiro.link" id="button" target="_blank">Acessar</a>
+    </div>
+  </div>
+</div>

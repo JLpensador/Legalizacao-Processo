@@ -22,6 +22,13 @@ export class ProjectService {
       },
 
       {
+        name: 'Certificação Bombeiros',
+        description:
+          'Solicite e acompanhe sua certificação de bombeiros. Preencha o formulário na opção de solicitação e monitore o andamento do seu pedido na seção de acompanhar.',
+        link: '/CertificaçãoBombeiros',
+      },
+
+      {
         name: 'Comprovante de Inscrição',
         description:
           'Acesse a página para a emissão do Comprovante de Inscrição e de Situação Cadastral de Pessoa Jurídica pela Internet',
@@ -47,6 +54,20 @@ export class ProjectService {
         description:
           'A Junta Comercial é um órgão governamental responsável por registrar, controlar e regularizar as atividades das empresas.',
         link: '/juntaComercial',
+      },
+
+      {
+        name: 'lorem',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
+        link: '',
+      },
+
+      {
+        name: 'lorem',
+        description:
+          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores doloremque et distinctio deleniti nam, impedit voluptates.',
+        link: '',
       },
     ];
   }
